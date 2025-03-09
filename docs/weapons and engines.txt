@@ -1,0 +1,29 @@
+﻿Betatron ray (consentrated x-ray) Doesn’t damage equipment, but flakes it out. Emits radiation.
+Laser (long range, minimal damage).
+Electrolazer (kills living things by electrocution) fries circuitry. Works by laser → plasma → electricity arcing through plasma. Shorter range, High Energy cost.
+Particle beam (hydrogen, speed of light) giant, high energy cost. Long range. Accurate. Pushes ship slightly backward.
+Plasma cannon (faster projectiles using electricity) would push ship in opposite direction a bit more.
+Plasma railgun (fast projectiles that can carry explosives. Really pushes ship backward.
+Ion cannon – disable rather than destory. Wrecks ship, but not people. Pushes ship backward a bit.
+
+Missiles
+
+torpedos
+
+
+Engines:
+stabalizers:
+Hall-effect thruster. Think stabalizers.
+
+Impulse engines:
+Nano electrokinetic thruster – expensive, big tubes.
+Fuel Thruster – acceleration – Giant fuel storage.
+ArcJet (uses fuel, but way more efficient)
+Solar Sail (large, slow acceleration)
+Dual mode propultion – Fuel needed, but more efficient
+
+Helical engine module for fuel thrusters. (only works when moving really fast) 0 fuel usage because fuel is recycled.
+
+Photon Rocket (needed to get close to ftl in conjunction with gravitational shield)
+Gravitational shield (needed for ftl)
+
